@@ -16,7 +16,8 @@ Images in `assets/1`
 ## Part 2 - Pull Requests and decision automation
 
 * Why Pull Requests are important. Not just as code review, but quality gate and process standardization  
-* Quality gate as a gate of standardization
+* Quality gate as a gate of standardization  
+* GAME. Create customized Pull request
 
 ## Part 3 - Access Control
 
