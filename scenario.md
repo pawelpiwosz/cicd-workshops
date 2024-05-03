@@ -7,8 +7,8 @@
   * Branching strategies  
   * Testing strategies  
   * Delivery strategies  
-2. Continuous Delivery patterns  
-3. On-prem, SaaS, or? Different ways of hosting CI/CD workloads  
+2. On-prem, SaaS, or? Different ways of hosting CI/CD workloads  
+3. Continuous Delivery patterns  
 4. Use of open source in Continuous Delivery 
   * GitHub Actions
   * Testing frameworks
@@ -41,11 +41,11 @@
 
 1.	Pros and cons of Trunk based branching strategy (Liberating structures, 1-2-4-all) – (Plan 1.)
 2.	Pros and cons of Blue/Green deployment (Liberating structures, 1-2-4-all) – (Plan 1.)
-3.	What you absolutely do and absolutely avoid to achieve proper delivery process (Liberating structures, Min Specs) – (Plan 2)
-4. Build your pipeline (plan 2)
-4.	Build the pipeline using GitHub Actions - (Plan 4., code) 
+3.	What you absolutely do and absolutely avoid to achieve proper delivery process (Liberating structures, Min Specs) – (Plan 3)
+4.  Build your pipeline (plan 3)
+5.	Build the pipeline using GitHub Actions - (Plan 4., code) 
 a.	Needed: find a fully functional code example with tests in GitHub
-5.	Use third-party Actions in GHA – (Plan 5., code)
-6.	Pull Request with SonarQube - (Plan 5., code)
-7.	Secure branches – (Plan 5., code)
-8.	Pipelines for IaC – (Plan 7., code)
+6.	Use third-party Actions in GHA – (Plan 5., code)
+7.	Pull Request with SonarQube - (Plan 5., code)
+8.	Secure branches – (Plan 5., code)
+9.	Pipelines for IaC – (Plan 7., code)
