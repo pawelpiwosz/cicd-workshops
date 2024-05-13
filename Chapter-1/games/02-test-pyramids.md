@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To ensure proper knowledge of test strategies through DevOps pipelines. 
+To ensure proper knowledge of test strategies through DevOps pipelines.
 
 ## Rules
 

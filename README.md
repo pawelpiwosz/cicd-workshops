@@ -9,7 +9,7 @@
 1.3. Testing strategies  
 1.4. Delivery strategies  
 
-Duration: 
+Duration:
 
 ### Continuous Delivery patterns
 
@@ -17,12 +17,12 @@ Duration:
 
 Duration:
 
-### On-prem, SaaS, or? Different ways of hosting CI/CD workloads 
+### On-prem, SaaS, or? Different ways of hosting CI/CD workloads
 
 3.1. Consquences of decision made for location of CI/CD workload
 3.2. Architecture and operations patterns for self-hosted solutions
 
-Duration: 
+Duration:
 
 ### Use of open source in Continuous Delivery
 
@@ -30,7 +30,7 @@ Duration:
 4.2. Testing frameworks  
 4.3. Performance testing frameworks  
 
-### Enable scale in Continuous Delivery 
+### Enable scale in Continuous Delivery
 
 5.1. Modularization  
 5.2. Pull Requests and decision automation  

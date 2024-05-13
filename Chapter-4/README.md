@@ -12,7 +12,7 @@ In this section we build simple pipeline to see on the example how bad decisions
 
 * Appium  
 * Selenium  
-* Cucumber    
+* Cucumber
 * Testkube
 
 ## Part 3 - Performance testing frameworks

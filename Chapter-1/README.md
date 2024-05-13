@@ -2,7 +2,7 @@
 
 This section of the workshops is about to ensure that all participants are on the same page and everyone understands what CI/CD is, what are the boundaries and main building blocks.
 
-## Part 1 - Differences between Continuous Delivery and Continuous Deployment 
+## Part 1 - Differences between Continuous Delivery and Continuous Deployment
 
 * Explanation what is CI/CD
 * Boundary between CI and CD
@@ -10,7 +10,7 @@ This section of the workshops is about to ensure that all participants are on th
 
 Images in `assets/1`
 
-## Part 2 - Branching strategies 
+## Part 2 - Branching strategies
 
 * What is branching strategy and why it is important.
 * Trunk based development
@@ -20,7 +20,7 @@ Images in `assets/1`
 
 Images in `assets/2`
 
-## Part 3 - Testing strategies 
+## Part 3 - Testing strategies
 
 * Different tests have different purposes
 * Testing pyramid
@@ -30,7 +30,7 @@ Images in `assets/2`
 
 Images in `assets/3`
 
-## Part 4 - Delivery strategies 
+## Part 4 - Delivery strategies
 
 * What is deployment strategy
 * Blue/green and blue/violet

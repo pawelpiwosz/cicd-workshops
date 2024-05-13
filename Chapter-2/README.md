@@ -1,4 +1,4 @@
-# On-prem, SaaS, or? Different ways of hosting CI/CD workloads 
+# On-prem, SaaS, or? Different ways of hosting CI/CD workloads
 
 This section describes different architectural decisions for CI/CD infrastructure.
 

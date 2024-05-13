@@ -10,7 +10,7 @@ Liberating structures, Min Specs
 
 The invitation:  
 
-You are responsible for design delivery process for the organization. Whole workload will use microservices and will be based in cloud. The CI/CD toolset is selected to be a SaaS solution (when possible). You know, today organization has 150 repositories and 87 different microservices. Planned growth of repos: 15% per year. Pipelines: 25% per year.   
+You are responsible for design delivery process for the organization. Whole workload will use microservices and will be based in cloud. The CI/CD toolset is selected to be a SaaS solution (when possible). You know, today organization has 150 repositories and 87 different microservices. Planned growth of repos: 15% per year. Pipelines: 25% per year.  
 Development environments must be created (and/or updated) as ephemeral, per branch in repository. Focus is on: security, quality and costs.
 
 Select three 'must' and at least one "must not" as prerequisities and way of work for this project.
