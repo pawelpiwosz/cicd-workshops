@@ -1,4 +1,4 @@
-# Enable scale in Continuous Delivery 
+# Enable scale in Continuous Delivery
 
 This section tells the story about scaling CI/CD and what should be taken into consideration when scale delivery.
 
@@ -17,11 +17,8 @@ Images in `assets/1`
 
 * Why Pull Requests are important. Not just as code review, but quality gate and process standardization  
 * Quality gate as a gate of standardization  
-<<<<<<< HEAD
 * GAME. Create customized Pull request
-=======
 * GAME. Pull Request with SonarQube
->>>>>>> c025b5d (updates)
 
 ## Part 3 - Access Control
 

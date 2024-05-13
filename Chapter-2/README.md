@@ -4,7 +4,8 @@ This section describes different architectural decisions for CI/CD infrastructur
 
 ## Part 1
 
-* Consquences of decision made for location of CI/CD workload
+* Consquences of decision made for location of CI/CD workload  
+* GAME: Capabilities for on-prem and SaaS
 
 ## Part 2
 
