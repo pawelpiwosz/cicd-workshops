@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Build simple example to see how easy is to miss a bigger picture when we focus on simple implamentation only.
+Build simple example to see how easy is to miss a bigger picture when we focus on simple implementation only.
 
 ## Rules
 
@@ -18,3 +18,7 @@ Create the pipeline which miss many aspects of properly designed CI/CD
 
 ## Code
 
+[Repo](https://github.com/pawelpiwosz/cicd-workshops-code-example)
+
+* [Test pipeline](code/ci-smoketests.yml)  
+* [Build pipeline](code/ci-build.md)

@@ -6,6 +6,8 @@ To ensure proper knowledge of test strategies through DevOps pipelines.
 
 ## Rules
 
+Lego game.
+
 Groups: depends how many sets do we have.
 
 Each group has to create three "pyramids", for: functional, non-functional and security tests. This is the first selection.

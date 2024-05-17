@@ -8,3 +8,5 @@ This section defines the triggers and structurizes them into defined patterns.
 * Pull request
 * Merge
 * Ad-hoc
+
+GAME. What are the triggers?
