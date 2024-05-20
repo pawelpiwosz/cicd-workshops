@@ -13,7 +13,9 @@ Duration:
 
 ### Continuous Delivery patterns
 
-2.1.
+2.1. Vertical scaling of CI/CD  
+2.2 Horizontal scaling  
+2.3 What are pros and cons and when to use these patterns?
 
 Duration:
 
